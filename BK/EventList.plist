@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/luoft?fref=ts</string>
+		<key>time</key>
+		<string>05/06/2015 5:00pm-7:00pm</string>
+		<key>name</key>
+		<string>Fencing Tournament</string>
+		<key>image</key>
+		<string>fencingEvent</string>
+		<key>content</key>
+		<string>Please come join our last meeting of the semster, where a fecing competition will be held between John Kim from USC, and Tim Frank from UCLA. Come support your player and school ! Pizza and beverage will be provided to the first 100 guests.</string>
+		<key>address</key>
+		<string>3400 South Figueroa Street, Los Angeles, CA 90089</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/steelegameofdrones?fref=ts</string>
+		<key>time</key>
+		<string>05/01/2015 10:00am-4:00pm</string>
+		<key>name</key>
+		<string>Game of Drones</string>
+		<key>image</key>
+		<string>droneEvent</string>
+		<key>content</key>
+		<string>ASME, AIAA, and USC Aerial Robotics are teaming up to bring you Game of Drones. You will see around 50 drones fly all togther at Long Beach Park. After the game, we will have picnic and discussion on Drone technology. Guest speaker include Elon Musk, Bill Gates, and Lei Jun.</string>
+		<key>address</key>
+		<string>7550 E Spring St, Long Beach, CA 90808</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/events/687154764728644/</string>
+		<key>time</key>
+		<string>04/28/2015 10:00am-2:00pm</string>
+		<key>name</key>
+		<string>Auto Show</string>
+		<key>image</key>
+		<string>autoEvent</string>
+		<key>content</key>
+		<string>The USC Auto Club is extremely excited to announce the second annual USC Auto Show! This year will be bigger and better than before with 60 incredible cars, we guarantee it.The show will take place from 10:00am to 2:00pm on Trousdale Parkway, the heart of the USC campus</string>
+		<key>address</key>
+		<string>University of Southern California, Los Angeles, CA 90089</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/events/879079095485861/</string>
+		<key>time</key>
+		<string>04/27/2015 1:00pm-6:00pm</string>
+		<key>name</key>
+		<string>Horse Riding</string>
+		<key>image</key>
+		<string>horseEvent</string>
+		<key>content</key>
+		<string>Hello everyone! it is midterm season and we wish everyone good luck on your tests. Next weekend, come join TAU and friends on an exciting horseback riding adventure in hollywood!!!</string>
+		<key>address</key>
+		<string>3400 North Beachwood Drive, Los Angeles, CA 90068</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/events/846109758794390/</string>
+		<key>time</key>
+		<string>04/12/2015 08:00pm-11:59pm</string>
+		<key>name</key>
+		<string>SPARK Light Party</string>
+		<key>image</key>
+		<string>partyEvent</string>
+		<key>content</key>
+		<string>Join us for a fun night of dance, music, and games! The theme is black lights and a wide range of delicious drinks will be served UNLIMITED. Come reignite some old sparks and discover some new sparks!!!</string>
+		<key>address</key>
+		<string>2626 Ellendale Pl Los Angeles, CA 90007</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/gosparksc?fref=ts</string>
+		<key>time</key>
+		<string>03/28/2015 12:00pm-1:50pm</string>
+		<key>name</key>
+		<string>Tech Talk</string>
+		<key>image</key>
+		<string>techEvent</string>
+		<key>content</key>
+		<string>Immediately following a brief talk by Tim and Geoff, you will have the opportunity to speak with them one-on-one during their office hour sessions. Students must sign up prior to the event. Sign ups will be posted shortly.</string>
+		<key>address</key>
+		<string>University of Southern California, Los Angeles, CA 90089</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/events/430406960468416/</string>
+		<key>time</key>
+		<string>03/25/2015 6:00pm-9:30pm</string>
+		<key>name</key>
+		<string>Night at Getty</string>
+		<key>image</key>
+		<string>gettyEvent</string>
+		<key>content</key>
+		<string>College students enjoy free food, parking, art, and entertainment. Meet-the-curator sessions and special tours.  Art demonstrations and activities </string>
+		<key>address</key>
+		<string>1200 Getty Center Dr, Los Angeles, California 90049</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.facebook.com/events/828467950522159/</string>
+		<key>time</key>
+		<string>02/12/2015 2:00pm-4:00pm</string>
+		<key>name</key>
+		<string>CSiesta</string>
+		<key>image</key>
+		<string>csEvent</string>
+		<key>content</key>
+		<string>Congrats on making it through another semester, USC ACM! Come celebrate the end of the year with USC ACM at our CSiesta! Join us for FREE TACOS, DELICIOUS BINARY COOKIES, a comeback of the epic photo booth, and of course, the company of your CS friends! </string>
+		<key>address</key>
+		<string>University of Southern California, Los Angeles, CA 90089</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>agClub</string>
+		<key>name</key>
+		<string>Adventure Gurus</string>
+		<key>content</key>
+		<string>We are a group of adventure lovers getting together to arrange and participate in hiking, camping, kayaking, exploring new places etc. Most of the group members are either USC students or alumni. Even though most of the active members are related to USC , this group is open to all irrespective of gender, caste, ethnicity etc. The group has a restriction that its members must be 18 or older to be a part of this group.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>kacClub</string>
+		<key>name</key>
+		<string>Korean Athletics Club</string>
+		<key>content</key>
+		<string>The Korean Athletics Club primarily focuses on providing USC students (mostly Koreans) a source of enjoyment and an opportunity to play sports while meeting new people simultaneously. Every week we provide practicing hours for basketball, soccer, golf and weight-training. Every semester we hold competitions with other schools such as UCLA and UC Berkeley. As well we hold group trips in order to form a stronger bond among the community. All of these sports and social events are meant to, as stated before, provide a stress-free environment where they can enjoy and to give individuals the opportunity to expand their network through sports.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>omcClub</string>
+		<key>name</key>
+		<string>Marshall Operations Management Club</string>
+		<key>content</key>
+		<string>The Marshall Operations Management Club (OMC) is a functional club that focuses on preparing MBAs for the wide array of operations management opportunities available in consulting, strategy, supply chain management, logistics, services, manufacturing, and lean six sigma. OMC provides a great opportunity to network with recruiters, alumni and 2nd year MBAs, and to learn about the variety of roles and responsibilities within operations management.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>sdsClub</string>
+		<key>name</key>
+		<string>Sigma Delta Sigma</string>
+		<key>content</key>
+		<string>The purpose of this sorority is to create unity through diversity and involvement in our community. This will be accomplished through the promotion of social awareness of contemporary issues concerning all facets of the public. In addition, this organization will engage in cultural activities that advocate the understanding of different customs and traditions. Through active participation in community service, the sisters of Sigma Delta Sigma will assist in giving support to all factions of society that demand aid.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>afmaClub</string>
+		<key>name</key>
+		<string>Annenberg Film Marketing Association</string>
+		<key>content</key>
+		<string>Providing students with opportunities to explore the business side of the entertainment industry through participating in projects and events, at the same time, building connections between students and professionals. Providing services for students and independent filmmakers, which include but not limited to the following activities: marketing campaign development, film festivals submission, publicity event planning and film distribution.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>huClub</string>
+		<key>name</key>
+		<string>Hermanos Unidos</string>
+		<key>content</key>
+		<string>Hermanos Unidos-USC seeks to help students succeed in the college environment by its commitment to the three foundational pillars of Academic Scholarship, Community Service, and Social Interaction. HU helps its members fulfill the three pillars by offering study hours, hands-on community service events, intramural sports, seminars, guest speakers, leadership development workshops, and team building activities. A unique component of the organization are its Platicas, where members are invited to converse on a more personal level and in an environment that promotes the achievement of both personal and collective goals. </string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>hipClub</string>
+		<key>name</key>
+		<string>Hospitality Industry Project</string>
+		<key>content</key>
+		<string>We are the only student organization dedicated to the pursuits of hospitality at USC. We represent students interested in the areas of hotels, restaurants, event planning, casinos, nightlife, cruiselines, spas, resorts, travel and leisure. We provide our members private networking opportunities and professional speaker events with the most respected names in the industry. We participate in exclusive, behind the scene site visits of hotels, restaurants, nightclubs, and other hospitality venues.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>amcpClub</string>
+		<key>name</key>
+		<string>Academy of Managed Care Pharmacy</string>
+		<key>content</key>
+		<string>AMCP is a professional association of pharmacists and students that serves patients and the public through the promotion of wellness and rational drug therapy. Our mission is to: Empower our members to serve society by using sound medication principles Provide leadership and support for our members Advance pharmacy practice in managed health care systems</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>aassClub</string>
+		<key>name</key>
+		<string>Ad Astra Student Society</string>
+		<key>content</key>
+		<string>Ad Astra Student Society is an academic and social society run by students in Astronautical Engineering or by students who have a keen interest in Space Sciences. We we will be holding monthly meetings in which we will decide on social events, seminars from key members in surrounding companies and current events in the Space community.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>atcClub</string>
+		<key>name</key>
+		<string>Aeneid Theatre Company</string>
+		<key>content</key>
+		<string>The Aeneid Theatre Company strives to enrich the USC community through the collaboration of student talents from all walks of campus life. Aeneid will independently produce straight (non-musical) plays of a relevant and thought-provoking nature each year, one from each of three categories: classical, contemporary, and alternative theatre. ATC strives to provide support, structure, and funding for these productions while offering opportunities for students to apply their learning to the the creation and advertising of shows and propose projects for subsequent seasons. We further endeavor to develop the presence of great theatre on campus through playwriting, monologue, and audition workshops.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>gitClub</string>
+		<key>name</key>
+		<string>Girls in Tech USC</string>
+		<key>content</key>
+		<string>Girls in Tech University at USC is dedicated to empowering, educating, and mentoring female college students interested in entering the technology field. In the past, we have held events such as our Women in Entrepreneurship panel (panelists included the CEO of Enplug Nanxi Liu and CEO of cyPOP Josie Baik), as well as our Big Data Panel (which featured Preact.io and Gravity.com) and was published in The Daily Trojan. Girls in Tech University at USC works closely with Girls in Tech Los Angeles, a branch of Girls in Tech, a global organization focused on the engagement, education and empowerment of influential women in technology.</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>csaClub</string>
+		<key>name</key>
+		<string>Chinese Student Association</string>
+		<key>content</key>
+		<string>CSA aimed at helping students in both academic and social life in Southern California. USC CSA events provide a great social opportunity for those who are willing to meet new people and have more Trojan spirits. Those people who love to party can participate in CSA dances, house parties, and beach bon-fire. For those people who want to do outdoor activities, they can join our paintball games, camping trips, ski-trips, and football games. CSA members who want to express themselves can place their work either on our on-line services or our regular monthly newsletter. </string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>ewbClub</string>
+		<key>name</key>
+		<string>Engineers Without Borders</string>
+		<key>content</key>
+		<string>Engineers Without Borders, University of Southern California Chapter (EWB-USC) partners with developing communities worldwide in order to improve their quality of life through the implementation of environmentally sustainable and economically practical engineering projects. EWB-USC shall construct sustainable systems that developing communities can own and operate and shall work toward empowering such communities by enhancing local, technical, managerial and entrepreneurial skills among the members of the communities which it serves.</string>
+	</dict>
+</array>
+</plist>
